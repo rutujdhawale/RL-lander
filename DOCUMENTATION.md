@@ -1,4 +1,4 @@
-# Autonomous Lunar Lander using Reinforcement Learning (PPO)
+# Lunar Lander using Reinforcement Learning (PPO)
 
 > A step-by-step reinforcement learning project that trains an autonomous spacecraft to control its descent and land on a platform using **Proximal Policy Optimization (PPO)**, with optional reward-shaping experiments and landing-stability evaluation.
 
