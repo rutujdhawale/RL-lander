@@ -88,20 +88,6 @@ Use at least 20 episodes for a quick comparison and preferably 100 or more for s
 - Mean episode length
 - Video inspection of behavior
 
-A short training run is not proof of a solved task. Training is stochastic; increase timesteps and repeat seeds for reliable claims.
+The short training run is not proof of a solved task. Training is stochastic; increase timesteps and repeat seeds for reliable claims.
 
-## Suggested results table
 
-| Policy | Training steps | Mean original reward | Success rate (>=200) | Notes |
-|---|---:|---:|---:|---|
-| Baseline | | | | |
-| Hover bonus | | | | |
-| Potential shaping | | | | |
-
-Fill this table from the generated evaluation CSVs. Do not invent results.
-
-## References
-
-- Gymnasium LunarLander: https://gymnasium.farama.org/environments/box2d/lunar_lander/
-- Stable-Baselines3 PPO: https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html
-- Gymnasium wrappers: https://gymnasium.farama.org/api/wrappers/
